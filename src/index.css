@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+button{
+  cursor: pointer;
+}
+
+body{
+  background-color: #FBF8EC;
+}
+
+@theme {
+  --color-custom-green: #70C05B;
+  --color-custom-greenBtn: #E5FFDE;
+  --color-custom-orange: #FF6633;
+  --color-custom-gray: #F3F2F1;
+  --color-custom-grayTitle: #414141;
+  --color-custom-grayText: #606060;
+  --color-custom-footer: #F9F4E2;
+}

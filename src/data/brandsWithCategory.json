@@ -1,0 +1,57 @@
+{
+  "brands": [
+    {
+      "category": "Акции",
+      "category_id": 2,
+      "brands": [
+        {
+          "name": "Urban Wear",
+          "id": "BR-2001",
+          "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab"
+        },
+        {
+          "name": "Elegance Soft",
+          "id": "BR-2002",
+          "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c"
+        },
+        {
+          "name": "Junior Denim",
+          "id": "BR-2003",
+          "image": "https://images.unsplash.com/photo-1519457431-758c442759e4"
+        }
+      ]
+    },
+    {
+      "category": "Новинки",
+      "category_id": 3,
+      "brands": [
+        {
+          "name": "Oak & Iron",
+          "id": "BR-3001",
+          "image": "https://images.unsplash.com/photo-1530018607912-eff2df114f11"
+        },
+        {
+          "name": "ChefPro",
+          "id": "BR-3002",
+          "image": "https://images.unsplash.com/photo-1593618998160-e34014e67546"
+        }
+      ]
+    },
+    {
+      "category": "Покупали раньше",
+      "category_id": 4,
+      "brands": [
+        {
+          "name": "DevPress",
+          "id": "BR-4001",
+          "image": "https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45"
+        },
+        {
+          "name": "Scholar Hub",
+          "id": "BR-4003",
+          "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6"
+        }
+      ]
+    }
+  ]
+}

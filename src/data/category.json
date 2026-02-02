@@ -1,0 +1,67 @@
+[
+  {
+    "id": 2,
+    "name": "Акции",
+    "icon": "FaTshirt",
+    "subcategories": [
+      {
+        "id": 21,
+        "name": "Men",
+        "subcategories": [
+          { "id": 211, "name": "T-Shirts" },
+          { "id": 212, "name": "Jeans" }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Women",
+        "subcategories": [
+          { "id": 221, "name": "Dresses" },
+          { "id": 222, "name": "Skirts" }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Kids"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Новинки",
+    "icon": "MdKitchen",
+    "subcategories": [
+      {
+        "id": 31,
+        "name": "Furniture"
+      },
+      {
+        "id": 32,
+        "name": "Kitchen Tools",
+        "subcategories": [
+          { "id": 321, "name": "Pans" },
+          { "id": 322, "name": "Knives" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Покупали раньше",
+    "icon": "FaBook",
+    "subcategories": [
+      {
+        "id": 41,
+        "name": "Programming",
+        "subcategories": [
+          { "id": 411, "name": "JavaScript" },
+          { "id": 412, "name": "Python" }
+        ]
+      },
+      {
+        "id": 42,
+        "name": "History"
+      }
+    ]
+  }
+]
