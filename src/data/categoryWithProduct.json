@@ -6,47 +6,47 @@
     "products": [
       {
         "id": 2001,
-        "name": "Men T-Shirt",
-        "definition": "Cotton T-shirt for everyday wear",
-        "price": 25,
+        "name": "Блинчики с мясом",
+        "definition": "Г/ц блинчики с мясом вес, Россия",
+        "price": 44.50,
         "image": "/images/ProductPictures/product_1.png",
-        "quantity": 50,
-        "discount": 20,
-        "isNew": true,
-        "rating": 3
+        "quantity": 100,
+        "discount": 50,
+        "isNew": false,
+        "rating": 4
       },
       {
         "id": 2002,
-        "name": "Women Dress",
-        "definition": "Elegant summer dress",
-        "price": 79,
+        "name": "Молоко Простоквашино",
+        "definition": "Молоко пастеризованное 2.5%",
+        "price": 44.50,
         "image": "/images/ProductPictures/product_2.png",
         "quantity": 14,
-        "discount": 10,
+        "discount": 50,
         "isNew": false,
         "rating": 5
       },
       {
         "id": 2003,
-        "name": "Kids Jeans",
-        "definition": "Comfortable jeans for kids",
-        "price": 35,
+        "name": "Колбаса сырокопченая",
+        "definition": "История Сальчичон и Тоскана",
+        "price": 44.50,
         "image": "/images/ProductPictures/product_3.png",
         "quantity": 30,
-        "discount": 0,
+        "discount": 50,
         "isNew": true,
-        "rating": 3
+        "rating": 4
       },
       {
         "id": 2004,
-        "name": "Men Jeans",
-        "definition": "Slim fit denim jeans",
-        "price": 60,
+        "name": "Сосиски вареные",
+        "definition": "История Молочные с сыром",
+        "price": 44.50,
         "image": "/images/ProductPictures/product_4.png",
         "quantity": 22,
-        "discount": 15,
+        "discount": 50,
         "isNew": false,
-        "rating": 5
+        "rating": 4
       }
     ]
   },
@@ -57,47 +57,47 @@
     "products": [
       {
         "id": 3001,
-        "name": "Wooden Table",
-        "definition": "Solid wood dining table",
-        "price": 499,
+        "name": "Колбаса КЗС-1218",
+        "definition": "Десна-Полесье GS12",
+        "price": 599.99,
         "image": "/images/ProductPictures/product_5.png",
         "quantity": 6,
-        "discount": 10,
+        "discount": 0,
         "isNew": false,
-        "rating": 1
-      },
-      {
-        "id": 3002,
-        "name": "Kitchen Knife Set",
-        "definition": "Professional stainless steel knives",
-        "price": 129,
-        "image": "/images/ProductPictures/product_1.png",
-        "quantity": 18,
-        "discount": 20,
-        "isNew": true,
         "rating": 4
       },
       {
+        "id": 3002,
+        "name": "Колбаса сырокопченая",
+        "definition": "История Сальчичон и Тоскана",
+        "price": 44.50,
+        "image": "/images/ProductPictures/product_3.png",
+        "quantity": 18,
+        "discount": 0,
+        "isNew": true,
+        "rating": 5
+      },
+      {
         "id": 3003,
-        "name": "Non-stick Pan",
-        "definition": "Durable non-stick cooking pan",
-        "price": 59,
-        "image": "/images/ProductPictures/product_9.png",
+        "name": "Сосиски вареные",
+        "definition": "История Молочные",
+        "price": 159.99,
+        "image": "/images/ProductPictures/product_4.png",
         "quantity": 25,
         "discount": 0,
         "isNew": false,
-        "rating": 3
+        "rating": 4
       },
       {
         "id": 3004,
-        "name": "Chair",
-        "definition": "Comfortable wooden chair",
-        "price": 89,
+        "name": "Молоко Простоквашино",
+        "definition": "Пастеризованное 2.5%",
+        "price": 49.39,
         "image": "/images/ProductPictures/product_2.png",
         "quantity": 10,
-        "discount": 5,
+        "discount": 0,
         "isNew": true,
-        "rating": 2
+        "rating": 4
       }
     ]
   },
@@ -108,47 +108,47 @@
     "products": [
       {
         "id": 4001,
-        "name": "JavaScript Guide",
-        "definition": "Complete guide to modern JavaScript",
-        "price": 39,
-        "image": "/images/ProductPictures/product_4.png",
+        "name": "Колбаса вареная",
+        "definition": "Десна-Полесье GS12",
+        "price": 77.99,
+        "image": "/images/ProductPictures/product_9.png",
         "quantity": 40,
-        "discount": 10,
+        "discount": 0,
         "isNew": true,
         "rating": 4
       },
       {
         "id": 4002,
-        "name": "Python for Beginners",
-        "definition": "Learn Python from scratch",
-        "price": 35,
-        "image": "/images/ProductPictures/product_1.png",
+        "name": "Сосиски вареные",
+        "definition": "Десна-Полесье GS12",
+        "price": 159.99,
+        "image": "/images/ProductPictures/product_4.png",
         "quantity": 35,
         "discount": 0,
         "isNew": false,
-        "rating": 1
+        "rating": 5
       },
       {
         "id": 4003,
-        "name": "World History",
-        "definition": "Overview of world history",
-        "price": 45,
-        "image": "/images/ProductPictures/product_2.png",
+        "name": "Колбаса КЗС-1218",
+        "definition": "Десна-Полесье GS12",
+        "price": 599.99,
+        "image": "/images/ProductPictures/product_5.png",
         "quantity": 20,
-        "discount": 15,
+        "discount": 0,
         "isNew": false,
-        "rating": 5
+        "rating": 4
       },
       {
         "id": 4004,
-        "name": "Clean Code",
-        "definition": "Best practices for writing clean code",
-        "price": 49,
-        "image": "/images/ProductPictures/product_9.png",
+        "name": "Молоко Простоквашино",
+        "definition": "Пастеризованное 2.5%",
+        "price": 49.39,
+        "image": "/images/ProductPictures/product_2.png",
         "quantity": 18,
-        "discount": 5,
+        "discount": 0,
         "isNew": true,
-        "rating": 5
+        "rating": 4
       }
     ]
   }
