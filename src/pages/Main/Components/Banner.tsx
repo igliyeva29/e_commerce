@@ -12,7 +12,7 @@ import 'swiper/css/thumbs'
 import 'swiper/css/free-mode'
 
 function Banner() {
-    const [thumbs, setTgumbs] = useState<SwiperType | null>(null)
+    const [thumbs, setThumbs] = useState<SwiperType | null>(null)
 
     return (
         <div className=''>
